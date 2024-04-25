@@ -1,0 +1,22 @@
+[gene-expression],,,
+ref,./refdata-gex-mm10-2020-A,,
+,,,
+[libraries],,,
+fastq_id,fastqs,lanes,feature_types
+NutrapPOS_TT_1,./FASTQ/rep1,any,Gene Expression
+NutrapPOS_NN_1,./FASTQ/rep1,any,Multiplexing Capture
+,,,
+[samples],,,
+sample_id,cmo_ids,description,
+embryo1,CMO301,A,
+embryo2,CMO302,B,
+embryo3,CMO303,C,
+embryo4,CMO304,D,
+embryo5,CMO305,E,
+embryo6,CMO306,F,
+embryo7,CMO307,G,
+embryo8,CMO308,H,
+embryo9,CMO309,I,
+embryo10,CMO310,J,
+embryo11,CMO311,K,
+embryo12,CMO312,L,
